@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...well
 - 📫 How to reach me ...well
-- Just wanted to say "Hi!:)"
+- Just wanted to say "Hi! :-)"
 
 <!---
 syoonjeong7/syoonjeong7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
